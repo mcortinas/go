@@ -1,3 +1,17 @@
+Server key
+AAAAxUMEj14:APA91bHfJ5N_RSxOy-A9sJQJ5NOsw_BrjYgA6R6oRbx8TZy23-Huxr_phIsTT-bzzO9rW-OMb9Yj081KKX1scOaFk_LimDG3Q5dXguKtq9ibrj0tEVrkrUUbFdFiF_mRRix-BCzTRyieIs8jDQsyxgcsqmbI0V8FJw
+Sender ID help_outline
+847232929630
+
+
+
+working method
+-------------------
+pi2 git pull to github, install and enjoy!
+local git push
+
+
+
 sqlite
 -------------
 tracks:id|name|enable
