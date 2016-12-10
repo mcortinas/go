@@ -1,0 +1,12 @@
+sqlite
+-------------
+tracks:id|name|enable
+teleroom:id|name|push
+sessions:id|track_id|day|room|start|end
+
+functions
+------------
+* scrap freq collect data
+* push telegram changes
+
+
